@@ -1,0 +1,10 @@
+Add photos here as JPEG files, named after the guest.
+Examples:
+  Amelia Rose -> amelia-rose.jpg
+  Daniel Rose -> daniel-rose.jpg
+  You -> you.jpg
+  Your partner -> partner.jpg
+
+The website automatically uses these images in the illustrated family tree.
+Guests with no matching photo continue showing an illustrated avatar.
+If you change a guest name, rename their photo to match the new name.
